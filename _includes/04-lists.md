@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# Todo
+1. This
+2. That
+
+# Nice to have
+- Foo
+- Bar
